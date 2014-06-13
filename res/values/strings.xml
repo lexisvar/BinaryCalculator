@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FinalAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="val1">Valor 1</string>
+    <string name="val2">Valor 2</string>
+    <string name="resultado">Resultado</string>
+    <string name="mas">+</string>
+    <string name="menos">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="cero">0</string>
+    <string name="uno">1</string>
+    <string name="foco">&lt;-l</string>
+    <string name="igual">=</string>
+    <string name="operation"></string>
+    <string name="reset">reset</string>
+    <string name="Resetear"></string>
+    <string name="rese">Resetear</string>
+
+</resources>

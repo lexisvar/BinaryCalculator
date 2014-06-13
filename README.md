@@ -1,0 +1,1 @@
+This is an arbitrary-precision binary calculator. It can add, subtract, multiply, or divide two binary numbers. It can operate on very large integers and very small fractional values — and combinations of both.
