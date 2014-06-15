@@ -82,7 +82,7 @@ public class BinaryCalculator extends Activity implements View.OnClickListener {
 	}	
 
 	public void onClick(View v) {  
-	       
+
 	    switch (v.getId()) { 
 		    case R.id.add:
 		    	oper = "+";
@@ -144,14 +144,14 @@ public class BinaryCalculator extends Activity implements View.OnClickListener {
 		    		result.setText(results);
 		    	}
 		    	break;
-		    	
+
 		    case R.id.reset:
 		    	val1.setText("");
 		    	val2.setText("");
 		    	result.setText("");
 		    	val1.requestFocus();
 			    break;
-		    
+
 		    default:
 		      break;
 	    }	    
@@ -196,4 +196,5 @@ public class BinaryCalculator extends Activity implements View.OnClickListener {
 	    }
 	    return val;          // return the string result with all appended binary values
 	}
+
 }
